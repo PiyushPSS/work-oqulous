@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "run-parcel": "npx parcel index.html"
+    "run-parcel": "npx parcel index.html",
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "babel": "^6.23.0",
